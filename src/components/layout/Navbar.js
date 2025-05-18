@@ -9,7 +9,7 @@ function Navbar() {
         <Menu.Item as={Link} to="/" className="brand">
           <Menu.Header as="h3">
             <Icon name="github" />
-            GithubFinder
+            OmarElbakouri GithubFinder
           </Menu.Header>
         </Menu.Item>
         <Menu.Item as={Link} to="/" position="right">

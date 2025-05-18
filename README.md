@@ -1,3 +1,52 @@
+# OmarElbakouri Github Finder
+
+Une application React moderne pour rechercher et explorer les profils GitHub.
+
+## Fonctionnalités
+
+- Recherche de profils GitHub
+- Affichage détaillé des informations utilisateur
+- Visualisation des repositories avec statistiques
+- Interface utilisateur moderne avec Semantic UI
+- Responsive design
+
+## Technologies utilisées
+
+- React.js
+- React Router
+- Semantic UI
+- GitHub API
+
+## Installation
+
+1. Clonez le repository
+```bash
+git clone https://github.com/votre-username/github-finder.git
+```
+
+2. Installez les dépendances
+```bash
+cd github-finder
+npm install
+```
+
+3. Lancez l'application
+```bash
+npm start
+```
+
+## Version
+
+Version: 1.0.0
+
+## Développé par
+
+Omar Elbakouri
+
+## Inspiré de
+
+Brad Traversy
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -29,13 +78,13 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
 ## Learn More
 
